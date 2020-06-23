@@ -80,6 +80,7 @@ workflow-step-api:2.22
 workflow-support:3.4
 ws-cleanup:0.38
 
+preSCMbuildstep:0.3
 external-monitor-job:1.7
 active-directory:2.16
 windows-slaves:1.6
